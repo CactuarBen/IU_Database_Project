@@ -1,5 +1,8 @@
 # IU Database Project
 
+![ERDiagram](https://github.com/user-attachments/assets/7b5b26c1-c9d5-4749-a35c-445863ebe701)
+
+
 ## Build a Data Mart in SQL
 
 ### Installation Guide
